@@ -1,0 +1,18 @@
+[submodule "Code/BlackRoot"]
+	path = Code/BlackRoot
+	url = https://github.com/JeroenDStout/Ap-Code-BlackRoot.git
+[submodule "Code/Conduits"]
+	path = Code/Conduits
+	url = https://github.com/JeroenDStout/Ap-Code-Conduits.git
+[submodule "Code/ToolboxBase"]
+	path = Code/ToolboxBase
+	url = https://github.com/JeroenDStout/Ap-Code-ToolboxBase.git
+[submodule "Util/Repo"]
+	path = Util/Repo
+	url = https://github.com/JeroenDStout/Ap-Util-Repo.git
+[submodule "Pipe/PipelineBase"]
+	path = Pipe/PipelineBase
+	url = https://github.com/JeroenDStout/Ap-Pipe-PipelineBase.git
+[submodule "Code/HephaestusBase"]
+	path = Code/HephaestusBase
+	url = https://github.com/JeroenDStout/Ap-Code-HephaestusBase.git
